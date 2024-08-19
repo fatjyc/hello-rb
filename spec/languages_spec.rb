@@ -16,5 +16,13 @@ RSpec.describe 'LANGUAGES' do
   it 'includes German greeting' do
     expect(LANGUAGES['de']).to eq('Hallo')
   end
+
+  it 'includes Chinese greeting' do
+    expect(LANGUAGES['zh']).to eq('Nihao')
+  end
+
+  it 'includes Japanese greeting' do
+    expect(LANGUAGES['ja']).to eq('Konnichiwa')
+  end
 end
 
