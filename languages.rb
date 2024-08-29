@@ -2,5 +2,7 @@ LANGUAGES = {
   'en' => 'Hello',
   'es' => 'Hola',
   'fr' => 'Bonjour',
-  'de' => 'Hallo'
+  'de' => 'Hallo',
+  'zh' => 'Nihao',
+  'ja' => 'Konnichiwa',
 }
