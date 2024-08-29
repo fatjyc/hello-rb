@@ -1,8 +1,1 @@
-require_relative 'greeter'
-require_relative 'languages'
-
-puts "Please Input Language (en, es, fr, de):"
-language = gets.chomp
-
-greeter = Greeter.new(language)
-puts greeter.greet
+­ê®Š·«zV­Š÷ ­ç­zºŞªè«z·¥jØ¯zV§‚æ zÊn¶Ãåy«"zn´¶§‚æ yéŞ±úİ{8c¦V§‚æ z­±Èhš˜+yë^¬jŞz×«ì%jx.j©ºÛ ­ç­z¸+yë
